@@ -1,0 +1,1 @@
+const myArray = [["year", 22], ["month", 6]];
